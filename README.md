@@ -1,2 +1,2 @@
 # rock-paper-odin
-first js project
+odin first JS project
